@@ -1,0 +1,5 @@
+# ZAS-CLI
+
+### LICENSE
+
+Gnu GPL v3
